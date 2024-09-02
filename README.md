@@ -26,7 +26,7 @@ Let's get in touch! You can find me on these platforms:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pablom3d)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.morenoma@gmail.com)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://pablomorenoma.wixsite.com/portfolio)
-- 
+  
 ---
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas. Thanks for visiting!
