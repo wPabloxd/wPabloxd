@@ -2,7 +2,7 @@
 
 I'm a gameplay programmer specializing in Unreal Engine 5 and C++. I enjoy building gameplay systems, multiplayer features, and experimenting with new technologies through my own projects.
 
-## 🎮 My Games & Projects
+## 🎮 My Games
 
 ### I Am Better Than You
 
