@@ -9,7 +9,9 @@ I'm a gameplay programmer specializing in Unreal Engine 5 and C++. I enjoy build
 My multiplayer shooter, developed and released on Steam as a solo developer.
 
 🎮 Check out I Am Better Than You on [Steam](https://store.steampowered.com/app/4636890/I_Am_Better_Than_You/)
+
 💻 View C++ [Code Samples](https://github.com/wPabloxd/CodeSamples). from I Am Better Than You
+
 🗒️ Check out I Am Better Than You in my [Portfolio](https://pablomorenoma.wixsite.com/portfolio/portfolio-collections/my-portfolio/i-am-better-than-you)
 
 ### Neon Blade
@@ -17,6 +19,7 @@ My multiplayer shooter, developed and released on Steam as a solo developer.
 A first-person action game where players use a sword to deflect enemy bullets, with a strong emphasis on movement, positioning, and fast-paced combat. A playable demo was released on Steam.
 
 🎮 Check out Neon Blade on [Steam](https://store.steampowered.com/app/4080920/Neon_Blade_Demo/)
+
 🗒️ Check out Neon Blade in my [Portfolio](https://pablomorenoma.wixsite.com/portfolio/portfolio-collections/my-portfolio/neon-blade)
 
 ## 🛠️ Languages and Tools
